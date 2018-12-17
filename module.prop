@@ -1,0 +1,7 @@
+id=speakerblast
+name=Incall Volume Fix + Speakerblast
+version=v5
+versionCode=5
+author=marshmello_61 @ xda-developers
+description=Systemlessly fixes the low incall volume by marshmello_61
+minMagisk=1700
